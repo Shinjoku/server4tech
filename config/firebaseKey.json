@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vnt4tech-teste",
+  "private_key_id": "7baec21faccc40bd01a0969d4cfdf892cff1316b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCzF5vOu1DbxABw\n+HV9EW6cTBBpykCyRAHKM/Yem9BnEHXAhFtcYC45SPMwgTA7S99GyzZfAaiuDVvQ\nIxUNAvlLsVOC23kIeshR6X+o64g+zFEiRQ/7wamL5Nqmjd1Dhq8t8VzAJjLK6tZa\n/MHIMlK5zBy9Qs3WwiBlsVwCW0sNHFImCOMcDyW1T+6khZ1XDX2jOgpqKaOAMZJ/\nZ9GFlGrcYHbKxs7BBJ2prDG9CIh7Ow/zFmIjrdV6+2tsJY6Tgrb8Z6u/P9tysG+A\nbbEp1IBH8ddnyHAjPZ4s6dQLoSy/HoDmVeNsW6ThVv5Da8pegmBcWQd5lg7X9LWy\n+DuhcV4lAgMBAAECggEADdi2cC5lWwh1bEaZdtkBL05mOnerttyxMrv/vHAZlc5c\n/Ex/b83z5PPx8X8bhoogMi4F/yR2sTZRMe90cjQXqDWGmmhznCc6E7M07o9/UjOj\n1j12teVMQYepLBVt1Qm1w5yUqjqJ1MyBVDmUlfDmGn1gf3WJyp/pt1MWJQx/6fx0\nXayJEbV2IXY8Uz2u+LdAqOlnXmuN4M8cUZusvLz2wqlAFfCQAq54K7l7XGzrdpDs\nw9LQLq+duxi2s/savWqUlA74xgxD80/NHhwAKznrZ95dDG/Fzjp2FHNCM3F3dhTM\n6Ci/o3J0hT+ZV8kw7LKozrmCeL7z79k+OYa0Bk7oIQKBgQDmu5KEnUVPbliYnqOy\n17EH3RdSHGjC9q97Orb7DjlBGGh+9/H0myEzwXz37b9Y6v6uR2TbbID7TdLLDXeg\nZKTDLBqQE+rRMCPF/ae3/tHdCtpaxRpNoTFMwUR/GDxOEUSaxi2UT2ND7fv87bD7\nfZx0EIlA7B1gelBn36oaecYonQKBgQDGtFT8hNMKUdxRJhCwhweDDZ9YklEn23T/\nvSNOL1NOkK/vYGombOZAHVoqgYRNpowj/qxsUTrgZ74vQ6jKib3e3WjNnDlNk/Rd\nOcL6eFtGCM/mY+OgXFgwIVwkQvwKGegYs3/6BcaDn9W/B34+5MJHXqQDRLJk90Xs\nYNLgSGlBKQKBgQCkmrhCR3iE3DH0X2hlVB8FfyL9/yp1vEsgXJjhrhoGaIVT30sL\nuAgNxkGDFmdl5e/fISvApj22CqURGwB2upYYbsRcePkSV4eN3hHi37WUPgPcsbS8\nIPzsxww4p2+OOh95U1x8683jTkpw/JlAMTKGUq24VTn39AqcsCHIVYuauQKBgQDE\nChJ2+EyGN/FXlmiM4QuGPqBhcCnlWtz5mw8ECij0sEcDsmnH81TPGKZmnVV8jr5g\nnNhcHWArGe9HDkevW2oaQPMvN9xJL5m9iElXd/sFA5ipww9GnRTcl20i0Xt8M8cK\n571xXNVX8w+c4rWpM2SBqVvDZbljZ5py9avXX1mI0QKBgQCRv3+s9/aT7JCdA4Pg\nyy8uNKB/T7OYwY1wwHKiUpipqVNWhf6uelEXLIdZRUXYceEkOiiC7JshRcuR15p5\nhPUSE2RwTGMrYeXbdQm8TWnFCHw0gPIFOKGRDMWxmrXXjo4vwdtvGl7tUpwpt7J2\nX9QVmPwp62RsYftJZf+neyZfBQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vnt4tech-teste@appspot.gserviceaccount.com",
+  "client_id": "110453009649043761894",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vnt4tech-teste%40appspot.gserviceaccount.com"
+}
